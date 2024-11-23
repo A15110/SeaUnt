@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#1E40AF" stroke="#60A5FA" stroke-width="16"/>
+  
+  <!-- Anchor -->
+  <path d="M256 120C269.255 120 280 130.745 280 144C280 157.255 269.255 168 256 168C242.745 168 232 157.255 232 144C232 130.745 242.745 120 256 120ZM256 184C277.882 184 296 202.118 296 224V280H312C334.091 280 352 297.909 352 320C352 342.091 334.091 360 312 360H296V376C296 389.255 285.255 400 272 400H240C226.745 400 216 389.255 216 376V360H200C177.909 360 160 342.091 160 320C160 297.909 177.909 280 200 280H216V224C216 202.118 234.118 184 256 184Z" fill="white"/>
+  
+  <!-- Waves -->
+  <path d="M144 280C144 262.327 158.327 248 176 248C193.673 248 208 262.327 208 280" stroke="#60A5FA" stroke-width="16" stroke-linecap="round"/>
+  <path d="M304 280C304 262.327 318.327 248 336 248C353.673 248 368 262.327 368 280" stroke="#60A5FA" stroke-width="16" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <path d="M256 440C353.202 440 432 361.202 432 264" stroke="#60A5FA" stroke-width="16" stroke-linecap="round"/>
+  <path d="M256 440C158.798 440 80 361.202 80 264" stroke="#60A5FA" stroke-width="16" stroke-linecap="round"/>
+</svg>
